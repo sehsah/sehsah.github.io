@@ -1,4 +1,4 @@
-# sehsah portfolio
+# Msehsah portfolio
 
 A responsive, static portfolio for https://sehsah.github.io/.
 
